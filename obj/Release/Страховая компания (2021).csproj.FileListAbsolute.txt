@@ -1,0 +1,19 @@
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\bin\Release\Страховая компания (2021).exe.config
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\bin\Release\Страховая компания (2021).exe.manifest
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\bin\Release\Страховая компания (2021).application
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\bin\Release\Страховая компания (2021).exe
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\bin\Release\Страховая компания (2021).pdb
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).csproj.ResolveComReference.cache
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.DBConnectionForm.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.BooksForm.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.InsuranceCaseForm.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.LoginForm.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.MainForm.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая_компания__2021_.Properties.Resources.resources
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).csproj.GenerateResource.cache
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).csproj.CoreCompileInputs.cache
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).exe.manifest
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).application
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).exe
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).pdb
+C:\Users\кит\Desktop\СтраКомп\СтраКомп\Страховая компания (2021)___Realese\obj\Release\Страховая компания (2021).csprojAssemblyReference.cache

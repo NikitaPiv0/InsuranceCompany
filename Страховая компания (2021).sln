@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Страховая компания (2021)", "Страховая компания (2021).csproj", "{F80FAC85-5F9E-417D-A55E-F0D4C47B6EC6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{81E733B7-A43C-4DD1-B4AE-47EF649B7472}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F80FAC85-5F9E-417D-A55E-F0D4C47B6EC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80FAC85-5F9E-417D-A55E-F0D4C47B6EC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80FAC85-5F9E-417D-A55E-F0D4C47B6EC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80FAC85-5F9E-417D-A55E-F0D4C47B6EC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E733B7-A43C-4DD1-B4AE-47EF649B7472}.Debug|Any CPU.ActiveCfg = Debug
+		{81E733B7-A43C-4DD1-B4AE-47EF649B7472}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E3BC4D4-5528-493B-ACBA-01580BAB7FCD}
+	EndGlobalSection
+EndGlobal

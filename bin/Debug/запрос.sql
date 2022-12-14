@@ -1,0 +1,3 @@
+CREATE DATABASE InsuranceCompany
+ON PRIMARY(FILENAME='C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\DATA\InsuranceCompany.mdf')
+FOR ATTACH;
